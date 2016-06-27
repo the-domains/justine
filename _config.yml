@@ -2,6 +2,7 @@ name: Justine
 favicon: null
 layout_spectrum: 0.24734
 typography_spectrum: 0.74589
+title: Journal
 cta:
   domain: null
   bucket: null
