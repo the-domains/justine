@@ -1,7 +1,7 @@
 name: Justine
 favicon: null
-layout_spectrum: 0.6804809102322906
-typography_spectrum: 0.8980539315380156
+layout_spectrum: 0.24734
+typography_spectrum: 0.74589
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8623160610441118
-  lightness: 0.6005754631478339
-  saturation: 0.5265679324511439
-  rhythmicContrast: 0.14212221675552428
+    - '#e9eaee'
+    - '#b9bdc6'
+    - '#607499'
+    - '#17270d'
+    - '#374629'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
